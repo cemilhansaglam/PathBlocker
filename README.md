@@ -48,7 +48,7 @@ The solution can also be visualized as a series of PNG images generated for each
 
 ## How It Works
 
-1. **Input**: A text file (`levelXX.txt`) defining the board layout. Example:
+1. **Input**: A text file (`example.txt`) defining the board layout. Example:
    ```
 ################
 #..............#
